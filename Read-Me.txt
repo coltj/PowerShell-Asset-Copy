@@ -1,0 +1,1 @@
+Windows PowerShell script that will scan files for specific file extensions (.jpg, png, tga, etc...) and then search and parse through a master directory for these files, checking first if the file exists and if it does, if a new version is available.
